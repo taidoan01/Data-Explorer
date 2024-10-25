@@ -1,7 +1,7 @@
 # Data Explorer Interactive Web Application
 
 This Streamlit-based application provides a comprehensive suite of tools for data analysis, Chat with Data, visualization, feature engineering, and automated machine learning (AutoML).
-
+## [App link](https://data-explorer-auto-ml.streamlit.app)
 
 ## Table of Contents
 - [Features](#features)
